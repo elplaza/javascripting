@@ -1,0 +1,2 @@
+# javascripting
+To learn Javascript
